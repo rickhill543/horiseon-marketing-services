@@ -41,6 +41,7 @@ Thoughout this project, the most important aspect I learned was the github UX al
 For generating a strong web presence for a company in the web presence business. Leading by example would be the axiom.
 </br>
 ```md
-![horiseon marketing servicies screenshot](assets/images/screenshot.png)
+![horiseon marketing servicies screenshot](./assets/images/screenshot.png)
 ```
+</br>
 <img src="https://github.com/rickhill543/horiseon-marketing-services/blob/main/assets/images/screenshot.png" alt="horiseon marketing services mockup" />
