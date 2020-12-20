@@ -42,11 +42,7 @@ For generating a strong web presence for a company in the web presence business.
 
 </br>
 
-![horiseon marketing servicies screenshot](./assets/images/screenshot.png)
-
-</br>
-
-<img src="https://github.com/rickhill543/horiseon-marketing-services/blob/main/assets/images/screenshot.png" alt="horiseon marketing services mockup" />
+![horiseon marketing services screenshot](./assets/images/screenshot.png)
 
 ***
 
