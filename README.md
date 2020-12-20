@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains the HTML and CSS components needed to create a landing page for Horiseon Marketing Solutions. Horiseon Marketing Services is a hypothetical marketing comapany offering solutions for web marketing. These solutions include...
+This repo contains the HTML and CSS components needed to create a landing page for Horiseon Marketing Services. Horiseon Marketing Services is a hypothetical marketing comapany offering solutions for web outreach. These solutions include...
 
 </br>
 
@@ -25,7 +25,7 @@ Thoughout this project, the most important aspect I learned was the github UX al
 
 [Horiseon Marketing Services](https://rickhill543.github.io/horiseon-marketing-services/)
 
-</br>
+***
 
 ## Installation
 
@@ -39,9 +39,29 @@ Thoughout this project, the most important aspect I learned was the github UX al
 ## Usage
 
 For generating a strong web presence for a company in the web presence business. Leading by example would be the axiom.
+
 </br>
-```md
+
 ![horiseon marketing servicies screenshot](./assets/images/screenshot.png)
-```
+
 </br>
+
 <img src="https://github.com/rickhill543/horiseon-marketing-services/blob/main/assets/images/screenshot.png" alt="horiseon marketing services mockup" />
+
+***
+
+## Credits
+
+Xander Rapstine: Orignal repo owner | 
+[Xander Rapstine](https://github.com/Xandromus/)
+
+</br>
+
+Saumya Ranjan Sahoo: Post on markdown | 
+[Markdown Syntax](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f)
+
+***
+
+## License
+View original repo for licensing information here | 
+[Xander Rapstine](https://github.com/coding-boot-camp/urban-octo-telegram)
