@@ -13,3 +13,4 @@ Horiseon Marketing Services is a hypothetical marketing comapany offering soluti
     * A service that utilizes analytics to detect market trends and increase your bottom line
 </br></br>
 <img src="./develop/assets/images/readme-img.png" alt="horiseon marketing services mockup" />
+![horiseon marketing services mockup](./develop/assets/images/readme-img.png)
